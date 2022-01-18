@@ -1,2 +1,3 @@
 # whmcs-moss
-WHMCS export script for VAT MOSS
+
+WHMCS export script for HRK & MOSS
